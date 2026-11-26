@@ -1,8 +1,8 @@
 # BÀI THỰC HÀNH WINDOWS FORMS (26/11) - BÀI TẬP 6.6 & 6.7
 
 ### Thông tin sinh viên:
-- **Họ và tên:** Phan Công Thành Đạt
-- **Mã sinh viên:** 24810310223
+- **Họ và tên sinh viên:** Phạm Hữu Hưng
+- **Mã sinh viên:** 24810310239
 - **Lớp:** D19CNPM3
 - **Môn học:** Lập trình .NET 
 ---
